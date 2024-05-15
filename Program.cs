@@ -2,7 +2,7 @@
 {
   public static void Main(string[] args)
   {
-    // Créer un tableau d'objets Journee pour stocker les données
+    // Créer un tableau d'objets Array/(collection) Journee pour stocker les données
     Journee[] semaine =
     [
             new("lundi", 5),
